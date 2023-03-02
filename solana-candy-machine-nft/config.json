@@ -1,0 +1,28 @@
+{
+  "price": 0.3,
+  "number": 9,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "25GJVPsMhxrdMSXXmbP8FzEHStKKAefCm3RkpVx7hMFy",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "25GJVPsMhxrdMSXXmbP8FzEHStKKAefCm3RkpVx7hMFy",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "2023-02-28T19:39:40.133362691+00:00",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "freezeTime": null,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "CRAB",
+  "sellerFeeBasisPoints": 100,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null
+}

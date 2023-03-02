@@ -1,0 +1,20 @@
+{
+    "name": "Art #0003",
+    "symbol": "ART",
+    "description": "Collection of 5 Art pieces on the blockchain. This is the number 3/5.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Art",
+            "value": "2"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
